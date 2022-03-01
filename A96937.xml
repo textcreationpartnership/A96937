@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The advocate</title>
+            <author>Worsley, Benjamin.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96937</idno>
+            <idno type="STC">Wing W3611B</idno>
+            <idno type="STC">ESTC R230918</idno>
+            <idno type="EEBO-CITATION">99896077</idno>
+            <idno type="PROQUEST">99896077</idno>
+            <idno type="VID">153774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153774)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2378:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The advocate</title>
+                  <author>Worsley, Benjamin.</author>
+               </titleStmt>
+               <extent>[6], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Du-Gard, printer to the Council of State,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Benjamin Worlsey.</note>
+                  <note>Caption title on B1r: The advocate: or, A narrative of the state and condition of things between the English and Dutch nation, in relation to trade, and the consequences depending thereupon, to either Common-wealth; as it was presented in August 1651.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Free trade --  Early works to 1800.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153774:3"/>
+            <pb facs="tcp:153774:3" rendition="simple:additions"/>
+            <pb facs="tcp:153774:4"/>
+            <pb facs="tcp:153774:4"/>
+            <p>THE ADVO<g ref="char:EOLhyphen"/>CATE.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>William Du-Gard,</hi> Printer to the Council of STATE. 1651.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:153774:5"/>
+            <pb facs="tcp:153774:5"/>
+            <head>TO THE RIGHT HONORABLE THE Council of State.</head>
+            <opener>
+               <salute>Right Honorable!</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am often in very great doubt (if I may ſo ſpeak), That the Goodneſs &amp; Wiſdom of God, <hi>&amp; his Thoughts of theſe,</hi> are very rarely met with, in the Paths, which the ſcantling of Man's Reaſon and Judgment walk in; And as I dare not but own the Belief of the Coming of his Appea<g ref="char:EOLhyphen"/>rance, and the breaking forth, very ſhortly, of his Glorie: So I believ likewiſe, this will bee a ſight very ſtrange, and very unexſpected to men; and not onely great<g ref="char:EOLhyphen"/>ly above, but in ſom meaſure even contrarie (and perhaps, very unwelcom) unto the moſt enlarged and raiſed thoughts wee have yet prepared our ſelvs with, to Receiv it.</p>
+            <p>The ſign of which Coming, will bee the Detection, by little and little, of all <hi>Impoſture,</hi> and the laying of all things low, naked, and mean before him; the ſtripping men of that Honor, Credit, and Repute, that they had by ſeveral means been gaining with themſelvs, and (by themſelvs) with others, either through
+<pb facs="tcp:153774:6"/> a Not-knowledg, or through an artificial concealing of them<g ref="char:EOLhyphen"/>ſelvs.</p>
+            <p>In <hi>theſe</hi> very things lying, and within <hi>theſe</hi> indeed, beeing ſpent and conſumed, the whole Indeavors, Practice, Studie and Wiſdom (if not Religion) of <hi>All,</hi> States, Nations and Men, <hi>viz.</hi>
+            </p>
+            <p>Either in deviſing ſhifts (by acquiſition of ſuch and ſuch Ha<g ref="char:EOLhyphen"/>bits, or otherwiſe) not to appear uncomly to themſelvs, but to beget rather an eſteem and ſatisfaction of themſelvs;</p>
+            <p>Or, in Concealing and keeping cloſe (by ſeveral Gloſſes) the Imperfections and uncomlineſſes, (known to themſelvs) from the ſight and apprehenſions of others.</p>
+            <p>The moſt exquiſite humane Wit exceeding the more inferior onely in this, That the former is able to finde out more Tight and exquiſite Textures for it ſelf then the other; And the most Fortunate man in this world, having the Advantage of the more <g ref="char:V">Ʋ</g>nfortunate, but after the ſame manner alſo, <hi>viz.</hi> That the Co<g ref="char:EOLhyphen"/>vering of this fall's off a little ſooner, and the other wrap's him<g ref="char:EOLhyphen"/>ſelf up in it a while longer.</p>
+            <p>And thus all Lusts, (as well thoſe of Acquiſition) in the minde (as others to exterior things) both in their first Iſſuings forth, and alſo in the Accompliſhments of them, are ſtill but to give countenance unto, and keep up a Repute and Eſteem in us. The Aſſumption (on the other ſide) of Repute and Eſteem to our ſelvs, is the very ground and original of all Lusts (Theſe two, obſerving tune, and keeping time each to the meaſures and motions of the other) and within this Circle is concluded <hi>whole Humane Nature,</hi> with all the Parts, and the most perfect Acti<g ref="char:EOLhyphen"/>ous of it.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>pon theſe Thoughts <hi>(Right Honorable!)</hi> I finding none not very ready to have aſſcribed to himſelf the name of beeing (in ſom meaſure) wiſe, finde none that can endure the Manifeſta<g ref="char:EOLhyphen"/>tion (in any kinde) of their Follie; or that can bee willing to have this their Wiſdom and Glorie to bee flatly and plainly cal<g ref="char:EOLhyphen"/>led
+<pb facs="tcp:153774:6"/> Pageantrie, Mumming, or a playing at Bo-peep with them<g ref="char:EOLhyphen"/>ſelvs and others; and yet (it really beeing no honester) if wee cannot bear the Judgments thus one of another, how ſhall wee abide the Trial, or bee able to ſtand before the Judgment of God, which ſeeth us, (and will ſhortly ſearch us) with more pure and uncorrupt Eies? And how miſerably then are the Imagina<g ref="char:EOLhyphen"/>tions of men muffled up in their own dreſsings? when the Truth is our Beeings, at their beſt (natural, or acquir'd) Appearances, are yet ſuch feigned ſubſiſtences, and Propp'd up with ſuch funda<g ref="char:EOLhyphen"/>mental miſtakes of themſelvs, that they would moulder and ſhat<g ref="char:EOLhyphen"/>ter themſelvs to pieces, ſhould they bee taken quite aſunder from the diſguiſes and patchings they have put upon themſelvs, bare-facedly and undeceivedly to ſee themſelvs but one half hour.</p>
+            <p>Beeing convinced, by theſe thoughts, therefore <hi>(Right Hono<g ref="char:EOLhyphen"/>rable!)</hi> of the low Condition wee are herein, <hi>I</hi> not knowing what the Councils of God intend to bring forth for the ſettlement of this Nation; Nor how hee hath reſolved in his Wiſdom to diſpoſe of it, as to its outward Condition, whether Hee intend's wee ſhal bee oppreſſed by other Nations about us, that hee may the more manifeſt his Power and Protection over us: Or that wee ſhal bee advanced in proſperitie above others, that ſo hee may perhaps ſhew us our vanitie (the Caſting of the Scale either way in appea<g ref="char:EOLhyphen"/>rance much depending upon the preſent Councils) I ſay, not know<g ref="char:EOLhyphen"/>ing This, I can as little Judg what means Providence will pleaſ to uſe in order to the bringing to paſs theſe his purpoſes, whether hee will chuſe This, or reject That.</p>
+            <p>But in this Caſe, remembering the advice of <hi>Solomon,</hi> and <note place="margin">
+                  <hi>Eccleſ.</hi> 11. 5, 6.</note> knowing nothing (for I can affirm it but as to mine own under<g ref="char:EOLhyphen"/>ſtanding) that hath preſented it ſelf of more Import to bee look<g ref="char:EOLhyphen"/>ed after, or to bee very heedfully taken into Conſideration, then Matters of <hi>Trade</hi> (if wee ſhall either regard the Safetie, <g ref="char:V">Ʋ</g>na<g ref="char:EOLhyphen"/>nimitie or Defence of this Nation) Nor any other waie poſ<g ref="char:EOLhyphen"/>ſible but This, to preſerv and maintein this Countrie: calling al<g ref="char:EOLhyphen"/>ſo to minde, how many times I have heard it urged, That there
+<pb facs="tcp:153774:7"/> is no other means to quiet or keep up the ſpirits of the poorer ſort of people: No other to give them Imploiment, or to finde a vent and Incouragement for their Labors (when they have wrought) and conſequently no other to provide againſt the wants and distempers of them, and of the Generalitie, but ſolely by <hi>Trade,</hi> and by a due Order and Regulation of it. All theſe things making up a ſtrong Affection in mee, I judged it my dutie <hi>(Right Honorable!),</hi> and what neceſſarily became the faithfulneſs I ow to the Common-wealth's ſervice, to indevor the repreſenting of this Truth (for your <hi>Honor's</hi> fuller Information) with the clearest Grounds and demonſtration I could, which beeing a thing that did much depend upon Experience, I knew not how to bring this more home, then by propounding a Preſident; and ſuch an one as is ſtil in ſight, which may at once witneſs, The Advantage of <hi>Trade, By themſelvs, and the benefit they found by it;</hi> The Diſadvantage of neglecting it, <hi>By what they brought upon us;</hi> And the clear waie of Governing it, <hi>By the Courſes they Actually took, and have practiſed to effect both theſe.</hi>
+            </p>
+            <p>All which Conceptions, nevertheleſs, are with all humble<g ref="char:EOLhyphen"/>neſs Submitted By</p>
+            <closer>
+               <signed>Your Honor's ſervant <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153774:7"/>
+            <head>THE ADVOCATE: OR, A NARRATIVE Of the ſtate and condition of things be<g ref="char:EOLhyphen"/>tween the <hi>Engliſh</hi> and <hi>Dutch</hi> Nation, in relation to TRADE, and the conſequences depending thereupon, to either Common-wealth; as it was preſented in <hi>August</hi> 1651.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T hath been a thing for many years generally received, That the Deſign of <hi>Spain</hi> (and which, to this daie, hee ſtill in his Councils carrie's on) is, to get the Univerſal Monarchie of Chri<g ref="char:EOLhyphen"/>ſtendom. Nor is it a thing leſs true (how little ſoever obſerved) that our Neighbors [the <hi>Dutch]</hi> (after they had ſettled their Libertie, and been a while en<g ref="char:EOLhyphen"/>couraged by Proſperitie) have, likewiſe, for ſom years, aimed to laie a foundation to themſelvs for ingroſsing the Univerſal Trade, not onely of Chriſtendom, but indeed, of the greater part of the known world; that ſo they might poiz the Affairs of any other State about them, and
+<pb n="2" facs="tcp:153774:8"/> make their own Conſiderable, if not by the Largeneſs of their Countrie; yet, however, by the Greatneſs of their Wealth; and by their potencie at Sea, in ſtrength and multi<g ref="char:EOLhyphen"/>tude of Shipping.</p>
+            <p>For the clear and certain carrying on of which, there beeing none (that was) like to bee ſo great a Bar to them, in this their Aim, as the <hi>Engliſh</hi> Nation; nor any that laie ſo conveniently to keep up a Proportion of Trade with them. It concerned them, therefore, by all means and waies poſsible to diſcourage and beat out the <hi>Engliſh</hi> in all places of Trade, as far (at leaſt) as was diſcreet for them, without too much Alaruming them; or having too early or haſtie a Breach with them.</p>
+            <p>Their particular Practices to which purpoſe in the <hi>Eaſt-Indies,</hi> at <hi>Guiny, Greenland, Ruſsia,</hi> with the ſeve<g ref="char:EOLhyphen"/>ral unfair Carriages (of ſom among them) to us, in thoſe places; and even in our own Seas, is not intended to bee here mentioned: It ſufficeth, that theſe following Advan<g ref="char:EOLhyphen"/>tages they had clearly gotten above us:</p>
+            <p n="1">1. In the great Trade they did drive to <hi>Eaſt-land,</hi> and to the <hi>Baltick</hi> Sea; for Maſts, Timber, Hemp, Pitch, Tar, Copper, Iron, Salt-peter, all ſorts of Grain, Pot-aſhes, &amp;c. the like moſt neceſſarie Commodities.</p>
+            <p n="2">2. In their Herring-fiſhing; imploying yearly upon the Coaſt of this Land onely, above 2000 Sail of Ship<g ref="char:EOLhyphen"/>ping</p>
+            <p n="3">3. In the preſerving and advancing their Manufactures; their Cloathing Trade of late ariſing and increaſing (as it is judged) to above 60000 Cloths yearly.</p>
+            <p n="4">4. In their <hi>Eaſt-India</hi> Trade; and by it, Monopolizing three ſorts of Spices almoſt to the whole world; as, Cloves, Nuts, and Mace, and lately much Cinna<g ref="char:EOLhyphen"/>mon.</p>
+            <pb n="3" facs="tcp:153774:8"/>
+            <p> 
+               <hi>The means whereby they have purſued and upheld theſe Advantages, were</hi>
+            </p>
+            <p>By the great number of Shipping they have conſtant<g ref="char:EOLhyphen"/>ly built; and by the manner of managing their Trade and Shipping, in a conformitie and direction to their Grand End:</p>
+            <p>For,</p>
+            <p n="1">1. Few Merchant's Ships among the <hi>Hollanders</hi> were Ships of much Defence, unleſs theſe going to <hi>India;</hi> and ſo they were neither at ſo great a Charge of Guns in building them; nor did carrie a proportion of men, or victual (in ſetting them out) near, or anſwerable to <hi>Engliſh</hi> Shipping of the ſame Bur<g ref="char:EOLhyphen"/>then.</p>
+            <p n="2">2. Several Trades they did drive in Fleets, with great Flutes, or Veſſels, having never a Gun at all in them, nor more men then would poſsibly ſail them, as moſt of their <hi>Eaſt-land</hi> Trade, their Herring-Buſs Trade, and their Salt Trade, which were driven after this manner.</p>
+            <p n="3">3. Thoſe their Fleets were, and have been alwaies carefully and conſtantly attended with a Convoy at the Publick Charge; and which was alway ready before-hand, and had their directions given them not from the State, but from the ſeveral Admiralties; whereby they were held to their dutie, and ſtrictly tied up to that ſervice.</p>
+            <p n="4">4. Much of the Trade which they did drive to the Southward (not in Fleets, nor with Convoy, but in ſingle Shipping) they would often enſure in <hi>England;</hi> ſo that when loſs came, it was wee ſomtimes that bare it, and our ſtock that was leſſened and diminiſhed by it.</p>
+            <pb n="4" facs="tcp:153774:9"/>
+            <p> 
+               <hi>By all which means,</hi>
+            </p>
+            <p n="1">1. They did engroſs the whole Trade of all Bulkie Com<g ref="char:EOLhyphen"/>modities (to themſelvs ſingly), as Timber, Clap-board, Maſts, Grain, Salt, &amp;c.</p>
+            <p n="2">2. And were, in ſom Commodities, able to go as cheap again for Freight, as wee: in ſom, half as cheap; and near in all, a full third penie cheaper then wee.</p>
+            <p>VVhich Cheapneſs of Freight produced again other great Advantages to themſelvs; For</p>
+            <p n="1">1. In ſom Commodities it was above 20 in the Hun<g ref="char:EOLhyphen"/>dred gain; in ſom 15; in others 10; and near 4 or 5 <hi>per Cent.</hi> in moſt; (which was a years Intereſt with them) And by which,</p>
+            <p n="2">2. They were ſure to get the preference of the Market of us in other Countries, and if occaſion were, to under-ſel us alſo as much <hi>per Cent.</hi> in all places, and upon all Trades; yea, ſomtimes in our own Com<g ref="char:EOLhyphen"/>modities: And this together with an eaſie pretence of the unſafetie of our <hi>Engliſh</hi> ſhipping through our late Troubles.</p>
+            <p n="3">3. Compelled our Nation (that wee might maintein a Stock going with them) to hire and freight the <hi>Hol<g ref="char:EOLhyphen"/>land</hi> ſhipping, without which, indeed, wee could not well have held up a Trade here with them, either out or home: And this beeing once begun by ſom, was immediately (by reaſon of the Advantage of it) followed by as many others as could: VVhich (though a good and beneficial expedient for the particular Merchant) begat notwithſtanding ſeve<g ref="char:EOLhyphen"/>ral very great miſchiefs to this Nation in general:</p>
+            <p>For,</p>
+            <p n="1">1. By this wee encouraged the building more and more
+<pb n="5" facs="tcp:153774:9"/> of our Neighbors Shipping, and diſcouraged our own; which hereupon were laid up by the walls in great num<g ref="char:EOLhyphen"/>bers.</p>
+            <p n="2">2. VVee encreaſed (by this) their great Trade for the <hi>Baltick</hi> Sea, and <hi>Eaſt-land,</hi> and gave them ſtill the grea<g ref="char:EOLhyphen"/>ter opportunitie to make themſelvs the Mart and Ma<g ref="char:EOLhyphen"/>ſters over us, of all Commodities belonging to the build<g ref="char:EOLhyphen"/>ing or furniſhing of Shipping, whereby their Trade ſtill came home in a Circle; they (like wiſe men) laying ſuch a Courſ, as one part of it ſtrengthened another.</p>
+            <p n="3">3. VVee diſ-obliged and diſcontented our own people and ſea-men, and inſenſibly weakned the ſtrength and defence of this Nation: For by this courſ, wee muſt at length have been reduced to have hired their Marri<g ref="char:EOLhyphen"/>ners, when wee come to ſet out our Men of VVar: nor was it poſsible (had it held) to have prevented it.</p>
+            <p n="4">4. They, by this means, carried away much unneceſſarie Treaſure out of this Nation, taken for freights; and ſo inſenſibly impoveriſhed alſo this Countrie; our monie occaſioning a Luxe to their people, while our own Sea<g ref="char:EOLhyphen"/>men ſtarved at home for meer want, and through lack of imploiment.</p>
+            <p n="5">5. As the Cheapneſs of their Freight enabled them to un<g ref="char:EOLhyphen"/>der-ſel us abroad, in many Commodities carried to For<g ref="char:EOLhyphen"/>reign Markets by them, and by us, to ſell: So it enabled them equally to over-bid us abroad for the Forreign Commodities, which they and wee bought, and to raiſ the price of them upon us, which while they had liber<g ref="char:EOLhyphen"/>tie to bring in hither, they either prevented our Mer<g ref="char:EOLhyphen"/>chant of the firſt of the Market, and then made us paie Sauce for them: or, if not, they carried them into their Countrie: on here watched the opportunitie of another ſeaſonable vent of them. And thus they ſerved us; as for all our <hi>Norway, East-land,</hi> and <hi>Ruſsia</hi> Commodi<g ref="char:EOLhyphen"/>ties; ſo alſo lately in our VVines, Fruits, Oils, Cur<g ref="char:EOLhyphen"/>rans,
+<pb n="6" facs="tcp:153774:10"/> &amp;c. which were the Commodities of <hi>Spain, Cana<g ref="char:EOLhyphen"/>ries,</hi> and the <hi>Straights:</hi> By both theſe means <hi>(viz.</hi> by diſcouraging and beating us down abroad in the ſelling of ſom Commodities; and by raiſing and enhanſing us abroad in the price, or buying up of others) conclu<g ref="char:EOLhyphen"/>ding with themſelvs, to wearie us out at length from all Trade, and to have the ſole buying and ſelling of all Commodities for us.</p>
+            <p>For this method and manner of managing their affairs, daily adding to <hi>Their</hi> ſtock, and anſwerably diminiſhing the Stock and Treaſure of <hi>this Nation:</hi> and by laying it ſo, as it <hi>run</hi> thus in a Circle, each part of it (as wee ſaid) ſtrengthening another part: it would unavoidably have tended to a greater and greater diſenabling us to hold anie Trade with them: and to have made themſelvs, for Wealth and Shipping, the Maſters over us: Of ſufficient teſtimonie of which (over and above what wee have ſaid alſo) wee might further ſee in the actual progreſs that they had gain<g ref="char:EOLhyphen"/>ed upon us in our Shipping.</p>
+            <p>For,</p>
+            <p n="1">1. In our Trade of <hi>Eaſt-land,</hi> whereas wee did uſe for<g ref="char:EOLhyphen"/>merly to ſend thither 200 Sail of Shipping in a year, wee now did not ſend 16 Sail: The <hi>Hollanders</hi> in the mean time employing not leſs then 600 Sail thither; and whereby (had not a good Providence croſſed or hinde<g ref="char:EOLhyphen"/>red a ſtrict Alliance and Conjunction between ſom of thoſe Eaſtern States and them) wee muſt ſoon have given them their Price, and been at their diſpoſing for all Commodities belonging to Shipping: and then it had been too great an hazard for us (by anie Law made here) to have recovered our Trade from them.</p>
+            <p n="2">2. In our Plantations they had three, if not four Sail of Ships, for our one: whereas they never ſuffered us ſo
+<pb n="7" facs="tcp:153774:10"/> much as to Trade at all in any place or Plantation ſettled by them.</p>
+            <p n="3">3. In <hi>India</hi> they have 20 Sail and above for our one.</p>
+            <p n="4">4. At <hi>Spain, Canaries, Zant,</hi> with ſeveral other places in the <hi>Straights,</hi> where they formerly rarely laded hither one ſhip of Goods; they now lately laded hither more then wee.</p>
+            <p>And thus, in the waie and manner of the managing the Trade in their ſhipping, laie much of their vigilancie to gain their advantage and deſign upon us.</p>
+            <p>A <hi>ſecond</hi> Courſ (therefore) whereby they do and have upheld their Advantages above us, is, The greatneſs of the Stock they imploie, which (as wee now intimated) was more and more increaſed by the wiſdom of this their Method in Shipping: And which, on the other ſide, as it did encreaſ and grow great, did enable them the more to give the Laws of Trade to us, both in the Government of the Exchange, and of the Markets abroad for Forreign Commodities.</p>
+            <p>A <hi>third</hi> Courſ for the gaining and upholding their Ad<g ref="char:EOLhyphen"/>vantages of us, was, The ſingular and prudent care they took in preſerving the Credit of moſt of thoſe Commodi<g ref="char:EOLhyphen"/>ties which are their own proper Manufactures; By which they keep up the Repute and Sale of them abroad; taking hereby a very great advantage of the contrarie Neglect in us; and by this means, likewiſe, very much damnifying and ſpoiling us.</p>
+            <p>Which that wee may clearly ſee of what Import this one thing alone is to us, wee ſhall here ſet down certain ge<g ref="char:EOLhyphen"/>neral Canons or Rules belonging to Manufactures.</p>
+            <p n="1">1. That although Divine Providence, in the greatneſs of his Wiſdom, hath placed natural Commodities, ſom here, ſom there; yet no Manufacture or artificial Com<g ref="char:EOLhyphen"/>moditie, but may poſsibly bee had or tranſplanted into anie Countrie.</p>
+            <p n="2">
+               <pb n="8" facs="tcp:153774:11"/> 2. That all Manufactures (eſpecially ſuch as are of Ne<g ref="char:EOLhyphen"/>ceſsitie) if they are of a certain goodneſs, They are (like Coin) of a certain value and price alſo; and ſo on the contrarie.</p>
+            <p n="3">3. That two perſons ſelling or making Commodities of a like goodneſs, hee ſhall have the preference of the Mar<g ref="char:EOLhyphen"/>ket, that will ſell them the cheapeſt: And ſo two Nations likewiſe.</p>
+            <p n="4">4. That the Cheapneſs of Manufactures, and artificial Commodities, doth altogether depend upon the plentie and cheapneſs of the matter, and upon the like cheap<g ref="char:EOLhyphen"/>neſs of price, for Handie-labor.</p>
+            <p>And theſe (though few) beeing unalterable Laws in all Manufactures, it cannot but bee acknowledged, that it is through our want of the like Care, as our Neighbors, and onely through that, that the <hi>Hollander</hi> hath anie kinde of Woollen Manufacture:</p>
+            <p>For,</p>
+            <p n="1">1. The matter of no Woollen Manufacture groweth in his Countrie at all; but hee is forced to fetch it from other places; whereas wee have it here, within this Na<g ref="char:EOLhyphen"/>tion, plentie.</p>
+            <p n="2">2. The price of labor depending much upon the price of victuals, houſ-rent, and other things neceſſarie, It is certain (eſpecially to anie that know both Countries) that all this is much cheaper with us, then with our Neighbors, and are like ſo to bee.</p>
+            <p n="3">3. Our Nation, as they were heretofore the onely work<g ref="char:EOLhyphen"/>men of theſe Commodities; ſo none can excel them for Art, Skill, or Goodneſs, were but encouragement given them, and an Order, Regulation, and Government of the Manufactures ſettled among them: And there<g ref="char:EOLhyphen"/>fore</p>
+            <p>It is not our Neighbor's ſingular Induſtrie above us, as
+<pb n="9" facs="tcp:153774:11"/> it is the Careleſneſs of this Nation, in keeping our Manu<g ref="char:EOLhyphen"/>factures to their due contents, weight, and goodneſs. Their Neglect in ſettling a Regulation, Government, and Super<g ref="char:EOLhyphen"/>ſpection over them, and in Inflicting due and juſt puniſh<g ref="char:EOLhyphen"/>ments for the falſ-making of them. That is (humbly con<g ref="char:EOLhyphen"/>ceived to bee much) the Cauſ of the ſo great thriving of our Neighbor's Cloathing, and of the ſo great Ruine and Decaie (on the contrarie) of our own Woollen Manu<g ref="char:EOLhyphen"/>factures, and of the people depending upon them.</p>
+            <p>A <hi>fourth</hi> Courſe taken by our Neighbors, Is, The Im<g ref="char:EOLhyphen"/>provements of Trade that they have made by their Trea<g ref="char:EOLhyphen"/>ties or Articles of Confederations with other Princes; <hi>and by making this their Care and Protection of Trade abroad in all places their Intereſt of State.</hi> Thus taking hold of the Juncture of Circumſtances, and making uſe of the Neceſ<g ref="char:EOLhyphen"/>ſitie of the King of <hi>Denmark,</hi> they have farmed the <hi>Sound</hi> of him: Thus alſo at the Treatie of <hi>Munſter</hi> have they reſerved a power of ſhutting us out of the <hi>Scheld,</hi> and have carefully in that Peace concluded on ſeveral other Articles and Proviſions in order to the ſecuring and pro<g ref="char:EOLhyphen"/>moting of their Traffick, And thus—&amp;c.</p>
+            <p>A <hi>fifth</hi> Courſ (and not the leaſt means for the up<g ref="char:EOLhyphen"/>holding and encreaſing their Trade) Is, The ſmalneſs of their Cuſtom, or Port-duties; alſo their prudent laying on and taking off Impoſitions, for the furtherance of their own Manufactures, and for the Incouragement of bring<g ref="char:EOLhyphen"/>ing in ſom, and Diſcouragement of bringing in other Commodities; and of which they have given us two ill Inſtances, The one in laying on a great Tax upon our <hi>Engliſh</hi> Cloths and Manufactures; The other in forbid<g ref="char:EOLhyphen"/>ding our Cloths wholly to bee imported, if dreſt or died in the Cloth; of both which wee have had ſom cauſ to complain long, as beeing plainly an Inhibition of Com<g ref="char:EOLhyphen"/>merce, and if not ſtrictly againſt the Laws of Nations; yet
+<pb n="10" facs="tcp:153774:12"/> at leaſt againſt the Courſ of Amitie, Alliance, and Friend<g ref="char:EOLhyphen"/>ſhip.</p>
+            <p>A <hi>ſixth</hi> Courſ hath been, The Conſtant Reward and Incouragement given to perſons bringing in Inventions; making of new Diſcoveries, and propounding things pro<g ref="char:EOLhyphen"/>fitable for publick and common Intereſt: which (how lit<g ref="char:EOLhyphen"/>tle a thing ſoever it may ſeem to ſom, yet it) hath ever been, and is conſtantly, a very great ſpur to In<g ref="char:EOLhyphen"/>duſtrie.</p>
+            <p>And theſe are humbly aſſerted to bee the principal Cau<g ref="char:EOLhyphen"/>ſes of their ſo much greatneſs and flouriſhing in Trade above us.</p>
+            <p>Other Cauſes that have been leſs principal and acceſſarie to theſe, are,</p>
+            <p n="1">1. The Eaſineſs or Lowneſs of Intereſt in that Coun<g ref="char:EOLhyphen"/>trie.</p>
+            <p n="2">2. The great facilitating of their Trade by a Bank.</p>
+            <p n="3">3. And laſt of all (the onely thing proper to them) the dearneſs and ſcarcitie of Land: and the dividing their Eſtates equally to their Children: whereby Trade is (as it were) continued in a Line without Interruption; the contrarie beeing cuſtomarie with us.</p>
+            <div type="animadversion">
+               <head>Animadverſion.</head>
+               <p>All which Diſcourſ beeing onely an Evidence given in from matter of known fact; It will (as is humbly conceiv<g ref="char:EOLhyphen"/>ed) manifeſt it ſelf.</p>
+               <div n="1" type="part">
+                  <head>I.</head>
+                  <p>That our Neighbors have no ſuch extraordinarie ad<g ref="char:EOLhyphen"/>vantage in matter of Trade, either through their Countrie, its Situation, or otherwiſe, as is proper or peculiar to them onely, beyond all other Nations, as hath been long the opi<g ref="char:EOLhyphen"/>nion
+<pb n="11" facs="tcp:153774:12"/> of ſom, but it is the manner of their Care, and of the Government that is among them, and the meer vigi<g ref="char:EOLhyphen"/>lancie of the Method obſerved by them:</p>
+                  <p>For,</p>
+                  <p>If the Nature of thoſe Courſes, which they have taken and purſued for the Incouragement of Trade, bee looked into and conſidered (as they are obvious to any other that will pleaſ to heed them) it cannot bee imagined but they ſhall make any people great, rich and flouriſhing in Trade; and therefore that they will do the like in anie other place as well as in <hi>Holland,</hi> if put in execution, eſpecially, if it bee a place ſeated for Trade, and the people of the Coun<g ref="char:EOLhyphen"/>trie apt for it.</p>
+               </div>
+               <div n="2" type="part">
+                  <head>II.</head>
+                  <p>It is preſumed, That our Neighbors would not think it Juſt, if wee ſhould condemn them, meerly for the taking theſe good Courſes for themſelvs; or becauſ they have given all Incouragements that were requiſite to their Trade in their own Countrie: Much leſs then would they ex<g ref="char:EOLhyphen"/>ſpect, that wee ſhould actually impute theſe things as Crimes to them, or ground hence anie occaſion to Eſtrange our ſelvs, or make a Breach with them: Nor will they therefore (as it is hoped) take it more ill from us; if wee (having now likewiſe recovered our Liberties) ſee the Neceſsitie of providing for the Defence of this Com<g ref="char:EOLhyphen"/>mon-Wealth by Shipping (as beeing <hi>Iſlanders);</hi> or if wee take up ſom of the like Courſes as They, for the In<g ref="char:EOLhyphen"/>couragement of Trade among us: As without which, in<g ref="char:EOLhyphen"/>deed, Shipping can neither bee had, or mainteined; which now alſo to neglect, were a very great Careleſneſs, and would, indeed, bee an Argument rather of our beeing to bee Blamed, then otherwiſe; having been ſo well taught, even by their own Example and Practice, That</p>
+                  <p n="1">
+                     <pb n="12" facs="tcp:153774:13"/> 1. It is by Trade, and the due ordering and governing of it, and by no other means, that Wealth and Shipping can either bee encreaſed, or upheld; and conſequently by by no other, that the power of any Nation can bee ſu<g ref="char:EOLhyphen"/>ſteined by Land, or by Sea: It beeing not poſsible (as is humblie thought) according to the Courſ of humane affairs, for anie Nation (having no Mines to ſupplie it ſelf) to make it ſelf powerful in either of theſe (that is, either Monie, or Shipping) without Trade, or a thorow Inſpection into Trade, and the Courſ of it.</p>
+                  <p n="2">2. That it is by a Knowledg of Trade and Commerce, and the Courſ of it, that one Nation or State know's perfectly how to ſtraighten and pinch another, and to compel a Compliance from them, which may bee, Either</p>
+                  <p>By debarring or deriving the Courſ of ſom neceſſa<g ref="char:EOLhyphen"/>rie Commodities from them; as for War, for Ship<g ref="char:EOLhyphen"/>ping, for Food, &amp;c. Or</p>
+                  <p>By obſtructing the Sale or Vent of the Native Com<g ref="char:EOLhyphen"/>modities belonging to them: Or</p>
+                  <p>By weakening their Shipping, and dreyning them by degrees of their Treaſure and Coin.</p>
+                  <p>By any of which Courſes, if not ſpied, or (when ſpied, if) not able to bee prevented, a People or Nation muſt at length bee ſtraightned and ſubjected: and every one of which Inconveniencies wee were very manifeſtly liable unto (as appear's by the foregoing Narrative) through the Advantages our Neighbors had over us, and through the Wiſdom of thoſe Courſes they had laid in their Trade with us: wee beeing ſo near pinched, that it had been very hard, fairly to have wreſted our ſelvs out of the Nets of our Neighbors, had <hi>Sweden</hi> been as much ſhut to us, as <hi>Denmark;</hi> and that the King of <hi>Poland</hi> likewiſe could have exerciſed his Arbitrarie Power on us at <hi>Dantzick:</hi>
+                     <pb n="13" facs="tcp:153774:13"/> And had not (at length) that Courſ about our Shipping and Navigation been ſo happily and timely eſtabliſhed by the Parlament: which, as the Neceſsitie of it could not ſuddenly bee ſo well judged of by thoſe that had not conſi<g ref="char:EOLhyphen"/>dered or been acquainted with the ſubſtance of the fore<g ref="char:EOLhyphen"/>going Relation: So certainly, beeing laid upon ſo equal and Neceſſarie Grounds, if continued to bee exerciſed, It will bee a means, in ſom meaſure, to recover us.</p>
+                  <p>For beſides what wee ſaid of the Conſtraint, that for the foregoing cauſes, laie upon us, It muſt even, from the Primitive grounds of Reaſon, bee acknow<g ref="char:EOLhyphen"/>ledged, That a Common-Wealth cannot bee enriched, nor the People thereof provided for, by any other means, then by reducing thoſe very Courſes into ge<g ref="char:EOLhyphen"/>neral Practice, which are uſed by Private men; And Therefore as Private men, that buie and ſell to ſute the Conveniencies of others, as well as themſelvs, do Con<g ref="char:EOLhyphen"/>ſtantly obſerv theſe, or the like Rules:</p>
+                  <p n="1">1. To buie at the firſt or beſt hand, or there, where they may have the Commoditie cheapeſt.</p>
+                  <p>
+                     <hi>Anſwerable to which, Is,</hi>
+                  </p>
+                  <p>To fetch Commodities at the Immediate places of their Production, or Growth.</p>
+                  <p n="2">2. To carrie Commodities to places where they are moſt needed.</p>
+                  <p>
+                     <hi>Anſwerable to which, Is,</hi>
+                  </p>
+                  <p>To ſend all Native Commodities to their fartheſt, or utmoſt Market, where they yield greateſt price.</p>
+                  <p>So theſe Canons and Rules muſt bee as inviolably ob<g ref="char:EOLhyphen"/>ſerved alſo by any Nation who will pretend an Intereſt,
+<pb n="14" facs="tcp:153774:14"/> hope, or benefit from Trade: otherwiſe they may juſtly bee reproved of leſs Care and Knowledg, then common or ordinarie Shop-keepers. Which Rules, notwithſtand<g ref="char:EOLhyphen"/>ing, are not to bee purſued, nor can bee imitated, without giving all the poſsible Indulgence and Incouragement, that may bee, to Shipping.</p>
+                  <p>And this whole ſtate of things, and theſe reaſons that have been produced, beeing all of them duly and equally conſidered, It is hoped, little will remain of Diſ-ſatisfaction (or Objection upon us) about the PARLIAMENT's late Act for the Incouragement and Increaſ of our Navigation; Which was, in<g ref="char:EOLhyphen"/>deed, the Thing principally propounded to bee here Argued, and the Cenſure of which is therefore freely Submitted.</p>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:153774:14"/>
+                  <pb facs="tcp:153774:15"/>
+                  <pb facs="tcp:153774:15"/>
+                  <pb facs="tcp:153774:16"/>
+                  <pb facs="tcp:153774:16" rendition="simple:additions"/>
+               </div>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
